@@ -18,4 +18,17 @@ How to Use:
 - Use the "Reset" button to clear all inputs for a new order.
 - Note: This project is a basic example and can be expanded upon for more advanced features and integrations.
 
+How to Run the Cafe Management System:
+
+1] Compile the Java code using the following command:
+
+javac CafeManagementSystem.java
+
+2] Run the Application:
+
+Execute the compiled Java class:
+java CafeManagementSystem
+
+Note: Ensure that you have Java installed on your machine to successfully compile and run the program. Adjust the git clone URL with your GitHub username if you forked the repository.
+
 Feel free to contribute or customize this Cafe Management System for your specific needs!
