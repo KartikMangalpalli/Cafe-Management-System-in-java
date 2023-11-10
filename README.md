@@ -18,9 +18,4 @@ How to Use:
 - Use the "Reset" button to clear all inputs for a new order.
 - Note: This project is a basic example and can be expanded upon for more advanced features and integrations.
 
-Getting Started:
-
-- Clone the repository: git clone https://github.com/your-username/cafemanagementsystem.git
-- Compile and run the Java program.
-
 Feel free to contribute or customize this Cafe Management System for your specific needs!
